@@ -37,13 +37,13 @@ o	Includes callbacks (@app.callback) to update graphs based on user interactions
 
 # Dependencies:
 
-To run the Sales Analysis Dashboard, ensure you have the following dependencies installed:
+To run the Sales Analysis Dashboard, ensure you have the following dependencies installed:  
 
-1. Python: Version 3.6 or higher
-2. Python Packages:
-    a). pandas: For data manipulation and analysis
-    b). numpy: For numerical operations
-    c). plotly: For interactive data visualization
-    d). scikit-learn: For machine learning model (LinearRegression)
-    e). dash: For creating interactive web-based dashboards
+1. Python: Version 3.6 or higher  
+2. Python Packages:  
+    a). pandas: For data manipulation and analysis  
+    b). numpy: For numerical operations  
+    c). plotly: For interactive data visualization  
+    d). scikit-learn: For machine learning model (LinearRegression)  
+    e). dash: For creating interactive web-based dashboards  
 
